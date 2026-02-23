@@ -50,7 +50,9 @@ def apply_theme(fig, categoryorder_y=None):
 
 @st.cache_data
 def load_data():
-    df  = pd.read_csv('online_retail_customers.csv', parse_dates=['InvoiceDate','InvoiceMonth'])
+    df = pd.read_parquet('online_retail_customers.parquet')
+    df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
+    df['InvoiceMonth'] = pd.to_datetime(df['InvoiceMonth'])
     rfm = pd.read_csv('online_retail_rfm.csv')
     cr  = pd.read_csv('online_retail_customer_returns.csv')
     op  = pd.read_csv('online_retail_op_losses.csv')
