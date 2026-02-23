@@ -1,0 +1,473 @@
+Invoice,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,__sheet_name,IsCancellation,Invoice_str,Revenue,InvoiceMonth,InvoiceYear,Category
+489660,35956,lost,-1043,2009-12-01 17:43:00,0.0,,United Kingdom,Year 2009-2010,True,489660,-0.0,2009-12-01,2009,Uncategorised — needs review
+489663,35605A,damages,-117,2009-12-01 18:02:00,0.0,,United Kingdom,Year 2009-2010,True,489663,-0.0,2009-12-01,2009,Damaged Stock
+490130,21493,lost?,-600,2009-12-03 18:28:00,0.0,,United Kingdom,Year 2009-2010,True,490130,-0.0,2009-12-01,2009,Other
+490765,21450,damaged,-31,2009-12-08 10:59:00,0.0,,United Kingdom,Year 2009-2010,True,490765,-0.0,2009-12-01,2009,Damaged Stock
+490766,51008,wet,-200,2009-12-08 11:06:00,0.0,,United Kingdom,Year 2009-2010,True,490766,-0.0,2009-12-01,2009,Other
+491732,79030A,smashed,-350,2009-12-14 10:00:00,0.0,,United Kingdom,Year 2009-2010,True,491732,-0.0,2009-12-01,2009,Other
+492787,85112,damaged,-38,2009-12-18 17:45:00,0.0,,United Kingdom,Year 2009-2010,True,492787,-0.0,2009-12-01,2009,Damaged Stock
+492790,37503,damaged,-19,2009-12-18 17:46:00,0.0,,United Kingdom,Year 2009-2010,True,492790,-0.0,2009-12-01,2009,Damaged Stock
+C495502,47367B,pair padded hangers pink check,-1,2010-01-25 12:35:00,3.75,12644.0,Germany,Year 2009-2010,True,C495502,-3.75,2010-01-01,2010,Other
+C495737,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:23:00,10.5,16154.0,United Kingdom,Year 2009-2010,True,C495737,-10.5,2010-01-01,2010,Other
+C495740,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:24:00,14.0,13054.0,United Kingdom,Year 2009-2010,True,C495740,-14.0,2010-01-01,2010,Other
+C495738,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:24:00,26.25,12454.0,Spain,Year 2009-2010,True,C495738,-26.25,2010-01-01,2010,Other
+C495739,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:24:00,10.5,15383.0,United Kingdom,Year 2009-2010,True,C495739,-10.5,2010-01-01,2010,Other
+C495744,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:25:00,91.89,12706.0,Finland,Year 2009-2010,True,C495744,-91.89,2010-01-01,2010,Other
+C495741,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:25:00,13.14,16840.0,United Kingdom,Year 2009-2010,True,C495741,-13.14,2010-01-01,2010,Other
+C495743,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:25:00,18.38,12382.0,Netherlands,Year 2009-2010,True,C495743,-18.38,2010-01-01,2010,Other
+C495751,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:28:00,26.19,12858.0,United Kingdom,Year 2009-2010,True,C495751,-26.19,2010-01-01,2010,Other
+C495757,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:30:00,10.49,16575.0,United Kingdom,Year 2009-2010,True,C495757,-10.49,2010-01-01,2010,Other
+C495759,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:31:00,15.75,12647.0,Germany,Year 2009-2010,True,C495759,-15.75,2010-01-01,2010,Other
+C495761,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:31:00,13.14,13664.0,United Kingdom,Year 2009-2010,True,C495761,-13.14,2010-01-01,2010,Other
+C495762,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:32:00,125.78,14285.0,United Kingdom,Year 2009-2010,True,C495762,-125.78,2010-01-01,2010,Other
+C495764,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:35:00,13.13,12792.0,Portugal,Year 2009-2010,True,C495764,-13.13,2010-01-01,2010,Other
+C495767,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:39:00,50.76,12696.0,Finland,Year 2009-2010,True,C495767,-50.76,2010-01-01,2010,Other
+C495769,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:47:00,18.38,17130.0,United Kingdom,Year 2009-2010,True,C495769,-18.38,2010-01-01,2010,Other
+C495770,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:49:00,36.75,15357.0,Unspecified,Year 2009-2010,True,C495770,-36.75,2010-01-01,2010,Other
+C495771,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:51:00,13.12,13776.0,United Kingdom,Year 2009-2010,True,C495771,-13.12,2010-01-01,2010,Other
+C495772,ADJUST,adjustment by john on 26/01/2010 16,-1,2010-01-26 16:55:00,22.95,12600.0,Germany,Year 2009-2010,True,C495772,-22.95,2010-01-01,2010,Other
+C495778,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:07:00,10.51,15266.0,United Kingdom,Year 2009-2010,True,C495778,-10.51,2010-01-01,2010,Other
+C495779,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:08:00,15.74,16168.0,United Kingdom,Year 2009-2010,True,C495779,-15.74,2010-01-01,2010,Other
+C495785,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:12:00,23.63,13468.0,United Kingdom,Year 2009-2010,True,C495785,-23.63,2010-01-01,2010,Other
+C495789,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:17:00,503.19,,United Kingdom,Year 2009-2010,True,C495789,-503.19,2010-01-01,2010,Other
+C495790,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:18:00,21.85,13136.0,United Kingdom,Year 2009-2010,True,C495790,-21.85,2010-01-01,2010,Other
+C495793,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:21:00,36.75,12497.0,Germany,Year 2009-2010,True,C495793,-36.75,2010-01-01,2010,Other
+C495796,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:24:00,15.76,14358.0,United Kingdom,Year 2009-2010,True,C495796,-15.76,2010-01-01,2010,Other
+C495797,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:25:00,10.51,12826.0,United Kingdom,Year 2009-2010,True,C495797,-10.51,2010-01-01,2010,Other
+C495800,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:27:00,103.5,12346.0,United Kingdom,Year 2009-2010,True,C495800,-103.5,2010-01-01,2010,Other
+C495803,ADJUST,adjustment by john on 26/01/2010 17,-1,2010-01-26 17:29:00,59.1,,EIRE,Year 2009-2010,True,C495803,-59.1,2010-01-01,2010,Other
+495996,22168,damages,-243,2010-01-28 11:41:00,0.0,,United Kingdom,Year 2009-2010,True,495996,-0.0,2010-01-01,2010,Damaged Stock
+496006,84641,damages,-51,2010-01-28 12:30:00,0.0,,United Kingdom,Year 2009-2010,True,496006,-0.0,2010-01-01,2010,Damaged Stock
+497275,22058,damaged?,-191,2010-02-08 13:57:00,0.0,,United Kingdom,Year 2009-2010,True,497275,-0.0,2010-02-01,2010,Other
+497994,84680,damages?,-46,2010-02-15 14:17:00,0.0,,United Kingdom,Year 2009-2010,True,497994,-0.0,2010-02-01,2010,Other
+498034,35978,damages,-22,2010-02-16 10:08:00,0.0,,United Kingdom,Year 2009-2010,True,498034,-0.0,2010-02-01,2010,Damaged Stock
+498930,72754A,damaged,-62,2010-02-24 10:24:00,0.0,,United Kingdom,Year 2009-2010,True,498930,-0.0,2010-02-01,2010,Damaged Stock
+499371,84782B,"damages, lost bits etc",-46,2010-02-26 11:51:00,0.0,,United Kingdom,Year 2009-2010,True,499371,-0.0,2010-02-01,2010,Other
+499373,84782A,"damages, lost bits etc",-20,2010-02-26 11:52:00,0.0,,United Kingdom,Year 2009-2010,True,499373,-0.0,2010-02-01,2010,Other
+499518,37410,damages,-355,2010-03-01 10:02:00,0.0,,United Kingdom,Year 2009-2010,True,499518,-0.0,2010-03-01,2010,Damaged Stock
+500258,21752,lost in space,-53,2010-03-05 13:36:00,0.0,,United Kingdom,Year 2009-2010,True,500258,-0.0,2010-03-01,2010,Other
+500562,84839,damaged,-26,2010-03-08 15:37:00,0.0,,United Kingdom,Year 2009-2010,True,500562,-0.0,2010-03-01,2010,Damaged Stock
+501185,82607C,damages,-67,2010-03-15 11:56:00,0.0,,United Kingdom,Year 2009-2010,True,501185,-0.0,2010-03-01,2010,Damaged Stock
+502564,84414B,damaged,-12,2010-03-25 11:53:00,0.0,,United Kingdom,Year 2009-2010,True,502564,-0.0,2010-03-01,2010,Damaged Stock
+503240,21463,damaged,-37,2010-03-30 17:53:00,0.0,,United Kingdom,Year 2009-2010,True,503240,-0.0,2010-03-01,2010,Damaged Stock
+503429,84750A,damages,-85,2010-03-31 17:53:00,0.0,,United Kingdom,Year 2009-2010,True,503429,-0.0,2010-03-01,2010,Damaged Stock
+503993,35824C,damaged,-58,2010-04-09 11:02:00,0.0,,United Kingdom,Year 2009-2010,True,503993,-0.0,2010-04-01,2010,Damaged Stock
+504590,84578,damages,-52,2010-04-15 10:25:00,0.0,,United Kingdom,Year 2009-2010,True,504590,-0.0,2010-04-01,2010,Damaged Stock
+505149,84932D,damages,-16,2010-04-20 11:38:00,0.0,,United Kingdom,Year 2009-2010,True,505149,-0.0,2010-04-01,2010,Damaged Stock
+505752,35824P,damages,-26,2010-04-26 09:41:00,0.0,,United Kingdom,Year 2009-2010,True,505752,-0.0,2010-04-01,2010,Damaged Stock
+505753,72750A,damages,-54,2010-04-26 09:43:00,0.0,,United Kingdom,Year 2009-2010,True,505753,-0.0,2010-04-01,2010,Damaged Stock
+505754,84869,damages,-13,2010-04-26 09:43:00,0.0,,United Kingdom,Year 2009-2010,True,505754,-0.0,2010-04-01,2010,Damaged Stock
+507154,84858A,wet and rotting,-100,2010-05-06 13:32:00,0.0,,United Kingdom,Year 2009-2010,True,507154,-0.0,2010-05-01,2010,Other
+507155,84858B,wet & rotting,-200,2010-05-06 13:32:00,0.0,,United Kingdom,Year 2009-2010,True,507155,-0.0,2010-05-01,2010,Other
+507688,22423,smashed,-32,2010-05-11 09:56:00,0.0,,United Kingdom,Year 2009-2010,True,507688,-0.0,2010-05-01,2010,Other
+507708,22423,damaged,-90,2010-05-11 11:18:00,0.0,,United Kingdom,Year 2009-2010,True,507708,-0.0,2010-05-01,2010,Damaged Stock
+507873,20820,damages,-143,2010-05-11 14:59:00,0.0,,United Kingdom,Year 2009-2010,True,507873,-0.0,2010-05-01,2010,Damaged Stock
+507874,20821,damages,-194,2010-05-11 15:00:00,0.0,,United Kingdom,Year 2009-2010,True,507874,-0.0,2010-05-01,2010,Damaged Stock
+508350,35816B,damaged,-17,2010-05-14 12:26:00,0.0,,United Kingdom,Year 2009-2010,True,508350,-0.0,2010-05-01,2010,Damaged Stock
+508855,84807,damages,-40,2010-05-18 15:14:00,0.0,,United Kingdom,Year 2009-2010,True,508855,-0.0,2010-05-01,2010,Damaged Stock
+508860,84078A,damages etc,-16,2010-05-18 15:35:00,0.0,,United Kingdom,Year 2009-2010,True,508860,-0.0,2010-05-01,2010,Other
+509013,72038B,damaged,-244,2010-05-19 13:35:00,0.0,,United Kingdom,Year 2009-2010,True,509013,-0.0,2010-05-01,2010,Damaged Stock
+509016,84625B,damaged,-47,2010-05-19 13:43:00,0.0,,United Kingdom,Year 2009-2010,True,509016,-0.0,2010-05-01,2010,Damaged Stock
+C509473,ADJUST,adjustment by peter on 24/05/2010 1,-1,2010-05-24 11:12:00,300.13,17050.0,United Kingdom,Year 2009-2010,True,C509473,-300.13,2010-05-01,2010,Other
+C509474,ADJUST,adjustment by peter on 24/05/2010 1,-1,2010-05-24 11:13:00,72.45,16422.0,United Kingdom,Year 2009-2010,True,C509474,-72.45,2010-05-01,2010,Other
+C509475,ADJUST,adjustment by peter on 24/05/2010 1,-1,2010-05-24 11:13:00,358.47,17364.0,United Kingdom,Year 2009-2010,True,C509475,-358.47,2010-05-01,2010,Other
+511116,85060,damaged/dirty,-408,2010-06-07 10:40:00,0.0,,United Kingdom,Year 2009-2010,True,511116,-0.0,2010-06-01,2010,Other
+511697,22171,damaged,-1,2010-06-09 16:55:00,0.0,,United Kingdom,Year 2009-2010,True,511697,-0.0,2010-06-01,2010,Damaged Stock
+511696,21760,damaged,-1,2010-06-09 16:55:00,0.0,,United Kingdom,Year 2009-2010,True,511696,-0.0,2010-06-01,2010,Damaged Stock
+512442,71477,"wet, rusty-thrown away",-312,2010-06-15 16:43:00,0.0,,United Kingdom,Year 2009-2010,True,512442,-0.0,2010-06-01,2010,Other
+512884,85060,damaged,-88,2010-06-18 12:02:00,0.0,,United Kingdom,Year 2009-2010,True,512884,-0.0,2010-06-01,2010,Damaged Stock
+513098,84508A,wet ctn,-48,2010-06-21 15:08:00,0.0,,United Kingdom,Year 2009-2010,True,513098,-0.0,2010-06-01,2010,Other
+514017,21735,damages,-143,2010-06-30 10:23:00,0.0,,United Kingdom,Year 2009-2010,True,514017,-0.0,2010-06-01,2010,Damaged Stock
+514100,22470,crushed,-4,2010-06-30 12:30:00,0.0,,United Kingdom,Year 2009-2010,True,514100,-0.0,2010-06-01,2010,Other
+514099,21463,smashed,-7,2010-06-30 12:30:00,0.0,,United Kingdom,Year 2009-2010,True,514099,-0.0,2010-06-01,2010,Other
+514101,35001W,broken,-12,2010-06-30 12:31:00,0.0,,United Kingdom,Year 2009-2010,True,514101,-0.0,2010-06-01,2010,Other
+514102,22423,damaged,-14,2010-06-30 12:32:00,0.0,,United Kingdom,Year 2009-2010,True,514102,-0.0,2010-06-01,2010,Damaged Stock
+514948,21532,damaged,-57,2010-07-07 11:46:00,0.0,,United Kingdom,Year 2009-2010,True,514948,-0.0,2010-07-01,2010,Damaged Stock
+515048,35972,check,-27,2010-07-08 10:48:00,0.0,,United Kingdom,Year 2009-2010,True,515048,-0.0,2010-07-01,2010,Uncategorised — needs review
+515049,35963,checked,-10,2010-07-08 10:50:00,0.0,,United Kingdom,Year 2009-2010,True,515049,-0.0,2010-07-01,2010,Other
+515052,85080,checked,-61,2010-07-08 10:50:00,0.0,,United Kingdom,Year 2009-2010,True,515052,-0.0,2010-07-01,2010,Other
+515055,35611B,damaged,-204,2010-07-08 10:53:00,0.0,,United Kingdom,Year 2009-2010,True,515055,-0.0,2010-07-01,2010,Damaged Stock
+515058,35607B,checked,-57,2010-07-08 10:54:00,0.0,,United Kingdom,Year 2009-2010,True,515058,-0.0,2010-07-01,2010,Other
+515069,35978,damages,-48,2010-07-08 10:57:00,0.0,,United Kingdom,Year 2009-2010,True,515069,-0.0,2010-07-01,2010,Damaged Stock
+515158,35603C,checked,-52,2010-07-08 15:31:00,0.0,,United Kingdom,Year 2009-2010,True,515158,-0.0,2010-07-01,2010,Other
+515160,85081,checked,-38,2010-07-08 15:33:00,0.0,,United Kingdom,Year 2009-2010,True,515160,-0.0,2010-07-01,2010,Other
+515289,22057,smashed,-23,2010-07-09 14:59:00,0.0,,United Kingdom,Year 2009-2010,True,515289,-0.0,2010-07-01,2010,Other
+515482,20787,damaged,-4,2010-07-13 10:21:00,0.0,,United Kingdom,Year 2009-2010,True,515482,-0.0,2010-07-01,2010,Damaged Stock
+515856,22607,damages,-70,2010-07-15 11:25:00,0.0,,United Kingdom,Year 2009-2010,True,515856,-0.0,2010-07-01,2010,Damaged Stock
+515878,21877,damages,-190,2010-07-15 11:32:00,0.0,,United Kingdom,Year 2009-2010,True,515878,-0.0,2010-07-01,2010,Damaged Stock
+516014,37479P,damages,-450,2010-07-16 09:57:00,0.0,,United Kingdom,Year 2009-2010,True,516014,-0.0,2010-07-01,2010,Damaged Stock
+516198,21843,damaged,-11,2010-07-19 10:33:00,0.0,,United Kingdom,Year 2009-2010,True,516198,-0.0,2010-07-01,2010,Damaged Stock
+516200,22423,smashed,-31,2010-07-19 10:33:00,0.0,,United Kingdom,Year 2009-2010,True,516200,-0.0,2010-07-01,2010,Other
+516473,21545,damages,-30,2010-07-20 15:56:00,0.0,,United Kingdom,Year 2009-2010,True,516473,-0.0,2010-07-01,2010,Damaged Stock
+516491,21463,damaged,-27,2010-07-21 10:24:00,0.0,,United Kingdom,Year 2009-2010,True,516491,-0.0,2010-07-01,2010,Damaged Stock
+516723,85161,damaged,-7,2010-07-22 12:38:00,0.0,,United Kingdom,Year 2009-2010,True,516723,-0.0,2010-07-01,2010,Damaged Stock
+516724,84356,damaged,-14,2010-07-22 12:40:00,0.0,,United Kingdom,Year 2009-2010,True,516724,-0.0,2010-07-01,2010,Damaged Stock
+516755,22165,damaged,-11,2010-07-22 16:33:00,0.0,,United Kingdom,Year 2009-2010,True,516755,-0.0,2010-07-01,2010,Damaged Stock
+516756,22167,damaged,-13,2010-07-22 16:33:00,0.0,,United Kingdom,Year 2009-2010,True,516756,-0.0,2010-07-01,2010,Damaged Stock
+516759,45008C,"dirty, torn, thrown away.",-15,2010-07-22 16:40:00,0.0,,United Kingdom,Year 2009-2010,True,516759,-0.0,2010-07-01,2010,Other
+517278,22487,damages,-16,2010-07-28 10:28:00,0.0,,United Kingdom,Year 2009-2010,True,517278,-0.0,2010-07-01,2010,Damaged Stock
+517908,84918,damages,-23,2010-08-03 10:16:00,0.0,,United Kingdom,Year 2009-2010,True,517908,-0.0,2010-08-01,2010,Damaged Stock
+518223,84691,damages,-79,2010-08-05 13:54:00,0.0,,United Kingdom,Year 2009-2010,True,518223,-0.0,2010-08-01,2010,Damaged Stock
+519359,85124A,damaged,-26,2010-08-16 12:47:00,0.0,,United Kingdom,Year 2009-2010,True,519359,-0.0,2010-08-01,2010,Damaged Stock
+519478,21652,damages,-58,2010-08-17 12:52:00,0.0,,United Kingdom,Year 2009-2010,True,519478,-0.0,2010-08-01,2010,Damaged Stock
+519480,21529,damages,-62,2010-08-17 12:53:00,0.0,,United Kingdom,Year 2009-2010,True,519480,-0.0,2010-08-01,2010,Damaged Stock
+520321,21312,damaged,-45,2010-08-25 12:13:00,0.0,,United Kingdom,Year 2009-2010,True,520321,-0.0,2010-08-01,2010,Damaged Stock
+520399,21130,damaged,-17,2010-08-25 16:14:00,0.0,,United Kingdom,Year 2009-2010,True,520399,-0.0,2010-08-01,2010,Damaged Stock
+520501,84367,crushed,-24,2010-08-26 12:36:00,0.0,,United Kingdom,Year 2009-2010,True,520501,-0.0,2010-08-01,2010,Other
+520739,21007,damages?,-121,2010-08-31 10:10:00,0.0,,United Kingdom,Year 2009-2010,True,520739,-0.0,2010-08-01,2010,Other
+521171,84405A,damaged,-13,2010-09-02 15:13:00,0.0,,United Kingdom,Year 2009-2010,True,521171,-0.0,2010-09-01,2010,Damaged Stock
+521198,79000,wet/smashed/unsellable,-700,2010-09-02 17:31:00,0.0,,United Kingdom,Year 2009-2010,True,521198,-0.0,2010-09-01,2010,Other
+521492,35001G,damages,-43,2010-09-06 13:46:00,0.0,,United Kingdom,Year 2009-2010,True,521492,-0.0,2010-09-01,2010,Damaged Stock
+521491,35001W,damages,-39,2010-09-06 13:46:00,0.0,,United Kingdom,Year 2009-2010,True,521491,-0.0,2010-09-01,2010,Damaged Stock
+521859,82607A,damages,-42,2010-09-09 11:00:00,0.0,,United Kingdom,Year 2009-2010,True,521859,-0.0,2010-09-01,2010,Damaged Stock
+521867,35015,wet damages,-4354,2010-09-09 11:03:00,0.0,,United Kingdom,Year 2009-2010,True,521867,-0.0,2010-09-01,2010,Storage Conditions
+521939,21431,crushed,-110,2010-09-09 16:33:00,0.0,,United Kingdom,Year 2009-2010,True,521939,-0.0,2010-09-01,2010,Other
+522194,21540,damages,-28,2010-09-13 11:54:00,0.0,,United Kingdom,Year 2009-2010,True,522194,-0.0,2010-09-01,2010,Damaged Stock
+524151,35600D,damages,-36,2010-09-27 15:42:00,0.0,,United Kingdom,Year 2009-2010,True,524151,-0.0,2010-09-01,2010,Damaged Stock
+525292,20825,damages,-90,2010-10-05 09:05:00,0.0,,United Kingdom,Year 2009-2010,True,525292,-0.0,2010-10-01,2010,Damaged Stock
+525460,22423,"broken, uneven bottom",-35,2010-10-05 14:46:00,0.0,,United Kingdom,Year 2009-2010,True,525460,-0.0,2010-10-01,2010,Other
+525525,22138,mouldy,-2000,2010-10-05 18:05:00,0.0,,United Kingdom,Year 2009-2010,True,525525,-0.0,2010-10-01,2010,Other
+525759,85065,damaged,-31,2010-10-07 10:34:00,0.0,,United Kingdom,Year 2009-2010,True,525759,-0.0,2010-10-01,2010,Damaged Stock
+526609,21735,broken glass,-53,2010-10-12 12:17:00,0.0,,United Kingdom,Year 2009-2010,True,526609,-0.0,2010-10-01,2010,Other
+526917,84406B,damaged,-11,2010-10-13 16:21:00,0.0,,United Kingdom,Year 2009-2010,True,526917,-0.0,2010-10-01,2010,Damaged Stock
+527112,37448,damages,-80,2010-10-14 17:27:00,0.0,,United Kingdom,Year 2009-2010,True,527112,-0.0,2010-10-01,2010,Damaged Stock
+527652,16245A,damaged,-1,2010-10-18 13:56:00,0.0,,United Kingdom,Year 2009-2010,True,527652,-0.0,2010-10-01,2010,Damaged Stock
+527707,22138,damages,-135,2010-10-18 15:16:00,0.0,,United Kingdom,Year 2009-2010,True,527707,-0.0,2010-10-01,2010,Damaged Stock
+529134,22423,wonky bottom/broken,-35,2010-10-26 14:48:00,0.0,,United Kingdom,Year 2009-2010,True,529134,-0.0,2010-10-01,2010,Other
+529135,21843,broken,-10,2010-10-26 14:49:00,0.0,,United Kingdom,Year 2009-2010,True,529135,-0.0,2010-10-01,2010,Other
+529521,84709A,damaged,-15,2010-10-28 15:35:00,0.0,,United Kingdom,Year 2009-2010,True,529521,-0.0,2010-10-01,2010,Damaged Stock
+529523,85165,damages,-1,2010-10-28 15:37:00,0.0,,United Kingdom,Year 2009-2010,True,529523,-0.0,2010-10-01,2010,Damaged Stock
+529550,72232,wet cartons,-1400,2010-10-28 17:18:00,0.0,,United Kingdom,Year 2009-2010,True,529550,-0.0,2010-10-01,2010,Other
+529560,20914,damages,-40,2010-10-28 18:02:00,0.0,,United Kingdom,Year 2009-2010,True,529560,-0.0,2010-10-01,2010,Damaged Stock
+529584,79302M,crushed,-40,2010-10-28 19:26:00,0.0,,United Kingdom,Year 2009-2010,True,529584,-0.0,2010-10-01,2010,Other
+529730,22785,broken zips,-9,2010-10-29 14:14:00,0.0,,United Kingdom,Year 2009-2010,True,529730,-0.0,2010-10-01,2010,Other
+529732,22786,broken zips,-10,2010-10-29 14:14:00,0.0,,United Kingdom,Year 2009-2010,True,529732,-0.0,2010-10-01,2010,Other
+530309,84978,damages,-400,2010-11-02 13:25:00,0.0,,United Kingdom,Year 2009-2010,True,530309,-0.0,2010-11-01,2010,Damaged Stock
+530591,20830,damages,-161,2010-11-03 15:12:00,0.0,,United Kingdom,Year 2009-2010,True,530591,-0.0,2010-11-01,2010,Damaged Stock
+530603,79000,damaged,-1500,2010-11-03 15:18:00,0.0,,United Kingdom,Year 2009-2010,True,530603,-0.0,2010-11-01,2010,Damaged Stock
+532843,35400,damages,-189,2010-11-15 10:11:00,0.0,,United Kingdom,Year 2009-2010,True,532843,-0.0,2010-11-01,2010,Damaged Stock
+C533840,21407,brown check cat doorstop,-1,2010-11-19 11:07:00,4.25,15311.0,United Kingdom,Year 2009-2010,True,C533840,-4.25,2010-11-01,2010,Other
+533868,21843,damaged,-25,2010-11-19 11:34:00,0.0,,United Kingdom,Year 2009-2010,True,533868,-0.0,2010-11-01,2010,Damaged Stock
+533872,22423,damaged,-29,2010-11-19 11:35:00,0.0,,United Kingdom,Year 2009-2010,True,533872,-0.0,2010-11-01,2010,Damaged Stock
+533992,85063,damaged,-16,2010-11-19 14:05:00,0.0,,United Kingdom,Year 2009-2010,True,533992,-0.0,2010-11-01,2010,Damaged Stock
+534502,20786,damages,-18,2010-11-23 11:29:00,0.0,,United Kingdom,Year 2009-2010,True,534502,-0.0,2010-11-01,2010,Damaged Stock
+534503,20787,damaged,-1,2010-11-23 11:30:00,0.0,,United Kingdom,Year 2009-2010,True,534503,-0.0,2010-11-01,2010,Damaged Stock
+535280,16169C,damages,-200,2010-11-25 14:16:00,0.0,,United Kingdom,Year 2009-2010,True,535280,-0.0,2010-11-01,2010,Damaged Stock
+535339,85084,damages,-15,2010-11-25 16:16:00,0.0,,United Kingdom,Year 2009-2010,True,535339,-0.0,2010-11-01,2010,Damaged Stock
+535884,84270,damaged,-411,2010-11-29 11:11:00,0.0,,United Kingdom,Year 2009-2010,True,535884,-0.0,2010-11-01,2010,Damaged Stock
+537425,84968F,check,-20,2010-12-06 15:35:00,0.0,,United Kingdom,Year 2009-2010,True,537425,-0.0,2010-12-01,2010,Uncategorised — needs review
+537426,84968E,check,-35,2010-12-06 15:36:00,0.0,,United Kingdom,Year 2009-2010,True,537426,-0.0,2010-12-01,2010,Uncategorised — needs review
+537432,35833G,damages,-43,2010-12-06 16:10:00,0.0,,United Kingdom,Year 2009-2010,True,537432,-0.0,2010-12-01,2010,Damaged Stock
+537425,84968F,check,-20,2010-12-06 15:35:00,0.0,,United Kingdom,Year 2010-2011,True,537425,-0.0,2010-12-01,2010,Uncategorised — needs review
+537426,84968E,check,-35,2010-12-06 15:36:00,0.0,,United Kingdom,Year 2010-2011,True,537426,-0.0,2010-12-01,2010,Uncategorised — needs review
+537432,35833G,damages,-43,2010-12-06 16:10:00,0.0,,United Kingdom,Year 2010-2011,True,537432,-0.0,2010-12-01,2010,Damaged Stock
+540010,22501,reverse 21/5/10 adjustment,-100,2011-01-04 11:13:00,0.0,,United Kingdom,Year 2010-2011,True,540010,-0.0,2011-01-01,2011,Other
+540012,22502,reverse 21/5/10 adjustment,-100,2011-01-04 11:14:00,0.0,,United Kingdom,Year 2010-2011,True,540012,-0.0,2011-01-01,2011,Other
+540564,22617,"mouldy, thrown away.",-2600,2011-01-10 10:36:00,0.0,,United Kingdom,Year 2010-2011,True,540564,-0.0,2011-01-01,2011,Storage Conditions
+540638,72038P,damages,-990,2011-01-10 12:14:00,0.0,,United Kingdom,Year 2010-2011,True,540638,-0.0,2011-01-01,2011,Damaged Stock
+542361,85161,samples/damages,-20,2011-01-27 12:47:00,0.0,,United Kingdom,Year 2010-2011,True,542361,-0.0,2011-01-01,2011,Other
+543257,84611B,thrown away,-1430,2011-02-04 16:06:00,0.0,,United Kingdom,Year 2010-2011,True,543257,-0.0,2011-02-01,2011,Disposed / Unsaleable
+543259,84612B,thrown away,-162,2011-02-04 16:07:00,0.0,,United Kingdom,Year 2010-2011,True,543259,-0.0,2011-02-01,2011,Disposed / Unsaleable
+543260,84613A,thrown away,-230,2011-02-04 16:07:00,0.0,,United Kingdom,Year 2010-2011,True,543260,-0.0,2011-02-01,2011,Disposed / Unsaleable
+543262,84614A,thrown away,-390,2011-02-04 16:08:00,0.0,,United Kingdom,Year 2010-2011,True,543262,-0.0,2011-02-01,2011,Disposed / Unsaleable
+543827,84406B,incorrectly made-thrown away.,-64,2011-02-14 09:44:00,0.0,,United Kingdom,Year 2010-2011,True,543827,-0.0,2011-02-01,2011,Other
+545236,22797,damages,-15,2011-03-01 10:32:00,0.0,,United Kingdom,Year 2010-2011,True,545236,-0.0,2011-03-01,2011,Damaged Stock
+545546,84249A,check,-150,2011-03-03 15:03:00,0.0,,United Kingdom,Year 2010-2011,True,545546,-0.0,2011-03-01,2011,Uncategorised — needs review
+545990,84598,check,-3000,2011-03-08 13:07:00,0.0,,United Kingdom,Year 2010-2011,True,545990,-0.0,2011-03-01,2011,Uncategorised — needs review
+546010,22423,damages,-19,2011-03-08 15:55:00,0.0,,United Kingdom,Year 2010-2011,True,546010,-0.0,2011-03-01,2011,Damaged Stock
+546124,35610C,thrown away.,-1121,2011-03-09 14:50:00,0.0,,United Kingdom,Year 2010-2011,True,546124,-0.0,2011-03-01,2011,Other
+546126,35611B,thrown away,-27,2011-03-09 14:52:00,0.0,,United Kingdom,Year 2010-2011,True,546126,-0.0,2011-03-01,2011,Disposed / Unsaleable
+546129,35610B,thrown away,-541,2011-03-09 15:07:00,0.0,,United Kingdom,Year 2010-2011,True,546129,-0.0,2011-03-01,2011,Disposed / Unsaleable
+546130,35610A,thrown away,-1277,2011-03-09 15:08:00,0.0,,United Kingdom,Year 2010-2011,True,546130,-0.0,2011-03-01,2011,Disposed / Unsaleable
+546137,20893,damages/display,-197,2011-03-09 16:33:00,0.0,,United Kingdom,Year 2010-2011,True,546137,-0.0,2011-03-01,2011,Other
+546140,21527,damages,-30,2011-03-09 16:35:00,0.0,,United Kingdom,Year 2010-2011,True,546140,-0.0,2011-03-01,2011,Damaged Stock
+546142,40016,damaged stock,-1100,2011-03-09 16:37:00,0.0,,United Kingdom,Year 2010-2011,True,546142,-0.0,2011-03-01,2011,Other
+546147,21320,broken,-63,2011-03-09 16:42:00,0.0,,United Kingdom,Year 2010-2011,True,546147,-0.0,2011-03-01,2011,Other
+546409,21833,damages,-110,2011-03-11 16:27:00,0.0,,United Kingdom,Year 2010-2011,True,546409,-0.0,2011-03-01,2011,Damaged Stock
+547363,22459,?lost,-232,2011-03-22 12:33:00,0.0,,United Kingdom,Year 2010-2011,True,547363,-0.0,2011-03-01,2011,Other
+547559,72759,thrown away-can't sell.,-524,2011-03-23 17:27:00,0.0,,United Kingdom,Year 2010-2011,True,547559,-0.0,2011-03-01,2011,Other
+547560,72732,thrown away-can't sell,-2472,2011-03-23 17:28:00,0.0,,United Kingdom,Year 2010-2011,True,547560,-0.0,2011-03-01,2011,Other
+547950,35241,damages?,-40,2011-03-28 15:11:00,0.0,,United Kingdom,Year 2010-2011,True,547950,-0.0,2011-03-01,2011,Other
+548620,84313B,damaged,-32,2011-04-01 11:53:00,0.0,,United Kingdom,Year 2010-2011,True,548620,-0.0,2011-04-01,2011,Damaged Stock
+548999,84743C,damages,-26,2011-04-05 14:34:00,0.0,,United Kingdom,Year 2010-2011,True,548999,-0.0,2011-04-01,2011,Damaged Stock
+549427,22797,damages,-12,2011-04-08 11:56:00,0.0,,United Kingdom,Year 2010-2011,True,549427,-0.0,2011-04-01,2011,Damaged Stock
+549531,21622,possible damages or lost?,-750,2011-04-08 17:05:00,0.0,,United Kingdom,Year 2010-2011,True,549531,-0.0,2011-04-01,2011,Other
+549846,21100,damaged,-6,2011-04-12 14:30:00,0.0,,United Kingdom,Year 2010-2011,True,549846,-0.0,2011-04-01,2011,Damaged Stock
+549935,35915C,damaged,-43,2011-04-13 11:16:00,0.0,,United Kingdom,Year 2010-2011,True,549935,-0.0,2011-04-01,2011,Damaged Stock
+549948,37488A,damaged,-1,2011-04-13 12:55:00,0.0,,United Kingdom,Year 2010-2011,True,549948,-0.0,2011-04-01,2011,Damaged Stock
+549950,37487B,damaged,-6,2011-04-13 12:57:00,0.0,,United Kingdom,Year 2010-2011,True,549950,-0.0,2011-04-01,2011,Damaged Stock
+549952,37482P,damaged,-93,2011-04-13 13:05:00,0.0,,United Kingdom,Year 2010-2011,True,549952,-0.0,2011-04-01,2011,Damaged Stock
+550153,85167B,damaged,-1,2011-04-14 14:44:00,0.0,,United Kingdom,Year 2010-2011,True,550153,-0.0,2011-04-01,2011,Damaged Stock
+550908,20827,damages,-68,2011-04-21 12:39:00,0.0,,United Kingdom,Year 2010-2011,True,550908,-0.0,2011-04-01,2011,Damaged Stock
+550922,22784,damages,-25,2011-04-21 14:29:00,0.0,,United Kingdom,Year 2010-2011,True,550922,-0.0,2011-04-01,2011,Damaged Stock
+550954,47013A,damaged,-2,2011-04-21 16:18:00,0.0,,United Kingdom,Year 2010-2011,True,550954,-0.0,2011-04-01,2011,Damaged Stock
+551302,48189,damaged,-18,2011-04-27 14:55:00,0.0,,United Kingdom,Year 2010-2011,True,551302,-0.0,2011-04-01,2011,Damaged Stock
+551323,21398,damages,-9,2011-04-27 15:31:00,0.0,,United Kingdom,Year 2010-2011,True,551323,-0.0,2011-04-01,2011,Damaged Stock
+551327,84228,crushed,-4,2011-04-27 16:01:00,0.0,,United Kingdom,Year 2010-2011,True,551327,-0.0,2011-04-01,2011,Other
+551705,22655,damages/showroom etc,-11,2011-05-03 14:35:00,0.0,,United Kingdom,Year 2010-2011,True,551705,-0.0,2011-05-01,2011,Other
+551735,21656,samples,-19,2011-05-04 10:25:00,0.0,,United Kingdom,Year 2010-2011,True,551735,-0.0,2011-05-01,2011,Samples / Write-offs
+551837,79164,damages/credits from asos.,-1512,2011-05-04 13:23:00,0.0,,United Kingdom,Year 2010-2011,True,551837,-0.0,2011-05-01,2011,Other
+552331,22667,damaged,-30,2011-05-09 10:24:00,0.0,,United Kingdom,Year 2010-2011,True,552331,-0.0,2011-05-01,2011,Damaged Stock
+552733,23059,thrown away-rusty,-2376,2011-05-11 10:48:00,0.0,,United Kingdom,Year 2010-2011,True,552733,-0.0,2011-05-01,2011,Other
+553147,84879,damaged,-160,2011-05-13 13:58:00,0.0,,United Kingdom,Year 2010-2011,True,553147,-0.0,2011-05-01,2011,Damaged Stock
+553395,15058C,wet/rusty,-30,2011-05-16 16:47:00,0.0,,United Kingdom,Year 2010-2011,True,553395,-0.0,2011-05-01,2011,Other
+553394,15058A,wet/rusty,-30,2011-05-16 16:47:00,0.0,,United Kingdom,Year 2010-2011,True,553394,-0.0,2011-05-01,2011,Other
+553396,22423,damages,-21,2011-05-16 16:48:00,0.0,,United Kingdom,Year 2010-2011,True,553396,-0.0,2011-05-01,2011,Damaged Stock
+553398,37370,damages/dotcom?,-590,2011-05-16 17:07:00,0.0,,United Kingdom,Year 2010-2011,True,553398,-0.0,2011-05-01,2011,Other
+553400,20803,damages,-40,2011-05-16 17:09:00,0.0,,United Kingdom,Year 2010-2011,True,553400,-0.0,2011-05-01,2011,Damaged Stock
+C553866,62043B,blue check bag w handle 34x20cm,-1,2011-05-19 14:14:00,0.83,14620.0,United Kingdom,Year 2010-2011,True,C553866,-0.83,2011-05-01,2011,Other
+554128,84563A,damaged,-4,2011-05-23 09:26:00,0.0,,United Kingdom,Year 2010-2011,True,554128,-0.0,2011-05-01,2011,Damaged Stock
+554143,79030G,damages,-413,2011-05-23 10:40:00,0.0,,United Kingdom,Year 2010-2011,True,554143,-0.0,2011-05-01,2011,Damaged Stock
+554144,79030D,damages,-664,2011-05-23 10:42:00,0.0,,United Kingdom,Year 2010-2011,True,554144,-0.0,2011-05-01,2011,Damaged Stock
+554287,22700,smashed,-48,2011-05-23 14:17:00,0.0,,United Kingdom,Year 2010-2011,True,554287,-0.0,2011-05-01,2011,Other
+554432,85132A,damaged,-97,2011-05-24 12:16:00,0.0,,United Kingdom,Year 2010-2011,True,554432,-0.0,2011-05-01,2011,Damaged Stock
+554551,47566B,reverse previous adjustment,-1300,2011-05-25 09:58:00,0.0,,United Kingdom,Year 2010-2011,True,554551,-0.0,2011-05-01,2011,Other
+555332,84801A,wet damaged,-48,2011-06-02 11:11:00,0.0,,United Kingdom,Year 2010-2011,True,555332,-0.0,2011-06-01,2011,Other
+555331,84800L,wet damaged,-144,2011-06-02 11:11:00,0.0,,United Kingdom,Year 2010-2011,True,555331,-0.0,2011-06-01,2011,Other
+555330,84804A,wet damaged,-125,2011-06-02 11:11:00,0.0,,United Kingdom,Year 2010-2011,True,555330,-0.0,2011-06-01,2011,Other
+555333,84805B,wet damaged,-96,2011-06-02 11:12:00,0.0,,United Kingdom,Year 2010-2011,True,555333,-0.0,2011-06-01,2011,Other
+555334,84805A,wet damaged,-96,2011-06-02 11:12:00,0.0,,United Kingdom,Year 2010-2011,True,555334,-0.0,2011-06-01,2011,Other
+555503,84313C,damaged,-1,2011-06-03 15:39:00,0.0,,United Kingdom,Year 2010-2011,True,555503,-0.0,2011-06-01,2011,Damaged Stock
+555505,79030G,water damaged,-16,2011-06-03 15:48:00,0.0,,United Kingdom,Year 2010-2011,True,555505,-0.0,2011-06-01,2011,Other
+555506,21397,damaged,-57,2011-06-03 16:03:00,0.0,,United Kingdom,Year 2010-2011,True,555506,-0.0,2011-06-01,2011,Damaged Stock
+556122,85019C,damaged,-108,2011-06-09 10:12:00,0.0,,United Kingdom,Year 2010-2011,True,556122,-0.0,2011-06-01,2011,Damaged Stock
+556123,22272,damaged,-15,2011-06-09 10:13:00,0.0,,United Kingdom,Year 2010-2011,True,556123,-0.0,2011-06-01,2011,Damaged Stock
+556301,22968,water damage,-50,2011-06-10 10:18:00,0.0,,United Kingdom,Year 2010-2011,True,556301,-0.0,2011-06-01,2011,Other
+556687,23003,printing smudges/thrown away,-9058,2011-06-14 10:36:00,0.0,,United Kingdom,Year 2010-2011,True,556687,-0.0,2011-06-01,2011,Printing Issues
+556690,23005,printing smudges/thrown away,-9600,2011-06-14 10:37:00,0.0,,United Kingdom,Year 2010-2011,True,556690,-0.0,2011-06-01,2011,Printing Issues
+556691,23005,printing smudges/thrown away,-9600,2011-06-14 10:37:00,0.0,,United Kingdom,Year 2010-2011,True,556691,-0.0,2011-06-01,2011,Printing Issues
+556963,35965,found some more on shelf,-9,2011-06-16 09:40:00,0.0,,United Kingdom,Year 2010-2011,True,556963,-0.0,2011-06-01,2011,Other
+557108,23113,damaged,-1440,2011-06-16 15:58:00,0.0,,United Kingdom,Year 2010-2011,True,557108,-0.0,2011-06-01,2011,Damaged Stock
+557390,21360,show samples,-4,2011-06-20 11:12:00,0.0,,United Kingdom,Year 2010-2011,True,557390,-0.0,2011-06-01,2011,Other
+557417,84809B,damaged,-324,2011-06-20 11:51:00,0.0,,United Kingdom,Year 2010-2011,True,557417,-0.0,2011-06-01,2011,Damaged Stock
+557596,23114,damaged,-1440,2011-06-21 11:33:00,0.0,,United Kingdom,Year 2010-2011,True,557596,-0.0,2011-06-01,2011,Damaged Stock
+557597,23115,damaged,-1440,2011-06-21 11:33:00,0.0,,United Kingdom,Year 2010-2011,True,557597,-0.0,2011-06-01,2011,Damaged Stock
+557599,23116,damaged,-1440,2011-06-21 11:34:00,0.0,,United Kingdom,Year 2010-2011,True,557599,-0.0,2011-06-01,2011,Damaged Stock
+557600,23117,damaged,-1440,2011-06-21 11:35:00,0.0,,United Kingdom,Year 2010-2011,True,557600,-0.0,2011-06-01,2011,Damaged Stock
+557784,21421,damaged,-5,2011-06-22 15:49:00,0.0,,United Kingdom,Year 2010-2011,True,557784,-0.0,2011-06-01,2011,Damaged Stock
+558268,21351,damaged,-220,2011-06-28 10:17:00,0.0,,United Kingdom,Year 2010-2011,True,558268,-0.0,2011-06-01,2011,Damaged Stock
+558379,22618,"mouldy, unsaleable.",-1681,2011-06-28 16:34:00,0.0,,United Kingdom,Year 2010-2011,True,558379,-0.0,2011-06-01,2011,Other
+558476,84597B,damages,-6,2011-06-29 16:04:00,0.0,,United Kingdom,Year 2010-2011,True,558476,-0.0,2011-06-01,2011,Damaged Stock
+558723,84865,damaged,-7,2011-07-01 14:28:00,0.0,,United Kingdom,Year 2010-2011,True,558723,-0.0,2011-07-01,2011,Damaged Stock
+558730,22060,damaged,-1,2011-07-01 14:51:00,0.0,,United Kingdom,Year 2010-2011,True,558730,-0.0,2011-07-01,2011,Damaged Stock
+559378,21781,damages?,-39,2011-07-08 10:40:00,0.0,,United Kingdom,Year 2010-2011,True,559378,-0.0,2011-07-01,2011,Other
+560717,84576,damaged,-3,2011-07-20 13:28:00,0.0,,United Kingdom,Year 2010-2011,True,560717,-0.0,2011-07-01,2011,Damaged Stock
+561326,21294,damaged,-227,2011-07-26 13:50:00,0.0,,United Kingdom,Year 2010-2011,True,561326,-0.0,2011-07-01,2011,Damaged Stock
+561920,84352,damages/samples,-52,2011-08-01 12:10:00,0.0,,United Kingdom,Year 2010-2011,True,561920,-0.0,2011-08-01,2011,Other
+562352,21735,damages,-59,2011-08-04 13:12:00,0.0,,United Kingdom,Year 2010-2011,True,562352,-0.0,2011-08-01,2011,Damaged Stock
+564914,85132C,damages,-109,2011-08-31 12:40:00,0.0,,United Kingdom,Year 2010-2011,True,564914,-0.0,2011-08-01,2011,Damaged Stock
+565370,82494L,crushed ctn,-33,2011-09-02 15:04:00,0.0,,United Kingdom,Year 2010-2011,True,565370,-0.0,2011-09-01,2011,Other
+565371,82483,crushed,-13,2011-09-02 15:04:00,0.0,,United Kingdom,Year 2010-2011,True,565371,-0.0,2011-09-01,2011,Other
+565935,23064,crushed,-8,2011-09-08 10:46:00,0.0,,United Kingdom,Year 2010-2011,True,565935,-0.0,2011-09-01,2011,Other
+566122,23084,temp adjustment,-484,2011-09-09 10:57:00,0.0,,United Kingdom,Year 2010-2011,True,566122,-0.0,2011-09-01,2011,Other
+567113,85215,damaged,-29,2011-09-16 13:39:00,0.0,,United Kingdom,Year 2010-2011,True,567113,-0.0,2011-09-01,2011,Damaged Stock
+567125,21246,damaged,-2,2011-09-16 13:49:00,0.0,,United Kingdom,Year 2010-2011,True,567125,-0.0,2011-09-01,2011,Damaged Stock
+567127,85230E,damaged,-48,2011-09-16 14:01:00,0.0,,United Kingdom,Year 2010-2011,True,567127,-0.0,2011-09-01,2011,Damaged Stock
+567132,21830,oops ! adjustment,-384,2011-09-16 14:14:00,0.0,,United Kingdom,Year 2010-2011,True,567132,-0.0,2011-09-01,2011,Other
+567143,21179,damaged,-14,2011-09-16 15:02:00,0.0,,United Kingdom,Year 2010-2011,True,567143,-0.0,2011-09-01,2011,Damaged Stock
+567149,35607B,thrown away,-9,2011-09-16 15:29:00,0.0,,United Kingdom,Year 2010-2011,True,567149,-0.0,2011-09-01,2011,Disposed / Unsaleable
+567150,35817P,thrown away,-44,2011-09-16 15:29:00,0.0,,United Kingdom,Year 2010-2011,True,567150,-0.0,2011-09-01,2011,Disposed / Unsaleable
+567918,79163,damaged,-1,2011-09-22 17:20:00,0.0,,United Kingdom,Year 2010-2011,True,567918,-0.0,2011-09-01,2011,Damaged Stock
+567921,21089,damaged,-7,2011-09-22 17:24:00,0.0,,United Kingdom,Year 2010-2011,True,567921,-0.0,2011-09-01,2011,Damaged Stock
+567923,37343,damaged,-2,2011-09-22 17:24:00,0.0,,United Kingdom,Year 2010-2011,True,567923,-0.0,2011-09-01,2011,Damaged Stock
+567925,84876D,damaged,-2,2011-09-22 17:26:00,0.0,,United Kingdom,Year 2010-2011,True,567925,-0.0,2011-09-01,2011,Damaged Stock
+567927,21654,damaged,-3,2011-09-22 17:28:00,0.0,,United Kingdom,Year 2010-2011,True,567927,-0.0,2011-09-01,2011,Damaged Stock
+567931,84563B,damaged,-11,2011-09-22 17:38:00,0.0,,United Kingdom,Year 2010-2011,True,567931,-0.0,2011-09-01,2011,Damaged Stock
+568401,21394,damages,-35,2011-09-27 10:30:00,0.0,,United Kingdom,Year 2010-2011,True,568401,-0.0,2011-09-01,2011,Damaged Stock
+568442,37327,damages,-131,2011-09-27 11:31:00,0.0,,United Kingdom,Year 2010-2011,True,568442,-0.0,2011-09-01,2011,Damaged Stock
+568724,84816,damages,-21,2011-09-28 16:27:00,0.0,,United Kingdom,Year 2010-2011,True,568724,-0.0,2011-09-01,2011,Damaged Stock
+569098,21098,damages?,-231,2011-09-30 12:09:00,0.0,,United Kingdom,Year 2010-2011,True,569098,-0.0,2011-09-01,2011,Other
+569131,22927,damaged,-5,2011-09-30 13:49:00,0.0,,United Kingdom,Year 2010-2011,True,569131,-0.0,2011-09-01,2011,Damaged Stock
+569256,20774,damaged,-14,2011-10-03 11:15:00,0.0,,United Kingdom,Year 2010-2011,True,569256,-0.0,2011-10-01,2011,Damaged Stock
+569335,84660A,damaged,-15,2011-10-03 13:57:00,0.0,,United Kingdom,Year 2010-2011,True,569335,-0.0,2011-10-01,2011,Damaged Stock
+569874,90180A,stock check,-32,2011-10-06 15:06:00,0.0,,United Kingdom,Year 2010-2011,True,569874,-0.0,2011-10-01,2011,Other
+569875,90195A,check,-45,2011-10-06 15:07:00,0.0,,United Kingdom,Year 2010-2011,True,569875,-0.0,2011-10-01,2011,Uncategorised — needs review
+569876,90210D,check,-28,2011-10-06 15:08:00,0.0,,United Kingdom,Year 2010-2011,True,569876,-0.0,2011-10-01,2011,Uncategorised — needs review
+569878,90057,crushed boxes,-380,2011-10-06 15:12:00,0.0,,United Kingdom,Year 2010-2011,True,569878,-0.0,2011-10-01,2011,Other
+569879,90012B,check,-5,2011-10-06 15:13:00,0.0,,United Kingdom,Year 2010-2011,True,569879,-0.0,2011-10-01,2011,Uncategorised — needs review
+569880,90012A,stock check,-18,2011-10-06 15:14:00,0.0,,United Kingdom,Year 2010-2011,True,569880,-0.0,2011-10-01,2011,Other
+569883,90014A,check,-12,2011-10-06 15:16:00,0.0,,United Kingdom,Year 2010-2011,True,569883,-0.0,2011-10-01,2011,Uncategorised — needs review
+570185,21090,wet/mouldy,-192,2011-10-07 14:56:00,0.0,,United Kingdom,Year 2010-2011,True,570185,-0.0,2011-10-01,2011,Other
+570294,84249A,damaged,-25,2011-10-10 12:00:00,0.0,,United Kingdom,Year 2010-2011,True,570294,-0.0,2011-10-01,2011,Damaged Stock
+570403,47574A,check,-61,2011-10-10 12:45:00,0.0,,United Kingdom,Year 2010-2011,True,570403,-0.0,2011-10-01,2011,Uncategorised — needs review
+570440,21424,damages,-40,2011-10-10 14:31:00,0.0,,United Kingdom,Year 2010-2011,True,570440,-0.0,2011-10-01,2011,Damaged Stock
+570595,21823,check,-94,2011-10-11 11:47:00,0.0,,United Kingdom,Year 2010-2011,True,570595,-0.0,2011-10-01,2011,Uncategorised — needs review
+570596,21803,check,-38,2011-10-11 11:48:00,0.0,,United Kingdom,Year 2010-2011,True,570596,-0.0,2011-10-01,2011,Uncategorised — needs review
+570691,85231G,check,-110,2011-10-11 16:44:00,0.0,,United Kingdom,Year 2010-2011,True,570691,-0.0,2011-10-01,2011,Uncategorised — needs review
+570711,21622,damages,-45,2011-10-12 10:14:00,0.0,,United Kingdom,Year 2010-2011,True,570711,-0.0,2011-10-01,2011,Damaged Stock
+570873,23322,mouldy,-40,2011-10-12 16:41:00,0.0,,United Kingdom,Year 2010-2011,True,570873,-0.0,2011-10-01,2011,Other
+570874,23020,smashed,-4,2011-10-12 16:42:00,0.0,,United Kingdom,Year 2010-2011,True,570874,-0.0,2011-10-01,2011,Other
+571112,22637,damages,-65,2011-10-13 17:36:00,0.0,,United Kingdom,Year 2010-2011,True,571112,-0.0,2011-10-01,2011,Damaged Stock
+571124,72802A,wet pallet-thrown away,-306,2011-10-14 09:36:00,0.0,,United Kingdom,Year 2010-2011,True,571124,-0.0,2011-10-01,2011,Other
+571130,72802C,check,-37,2011-10-14 10:05:00,0.0,,United Kingdom,Year 2010-2011,True,571130,-0.0,2011-10-01,2011,Uncategorised — needs review
+571131,72802B,check,-51,2011-10-14 10:13:00,0.0,,United Kingdom,Year 2010-2011,True,571131,-0.0,2011-10-01,2011,Uncategorised — needs review
+571254,23427,damaged,-2,2011-10-14 17:07:00,0.0,,United Kingdom,Year 2010-2011,True,571254,-0.0,2011-10-01,2011,Damaged Stock
+571458,21761,damaged,-2,2011-10-17 14:02:00,0.0,,United Kingdom,Year 2010-2011,True,571458,-0.0,2011-10-01,2011,Damaged Stock
+571459,20839,damages,-80,2011-10-17 14:03:00,0.0,,United Kingdom,Year 2010-2011,True,571459,-0.0,2011-10-01,2011,Damaged Stock
+571686,22149,damages,-40,2011-10-18 14:22:00,0.0,,United Kingdom,Year 2010-2011,True,571686,-0.0,2011-10-01,2011,Damaged Stock
+571687,22149,check,-46,2011-10-18 14:23:00,0.0,,United Kingdom,Year 2010-2011,True,571687,-0.0,2011-10-01,2011,Uncategorised — needs review
+571915,21627,check,-32,2011-10-19 15:34:00,0.0,,United Kingdom,Year 2010-2011,True,571915,-0.0,2011-10-01,2011,Uncategorised — needs review
+572468,72803A,damages,-160,2011-10-24 13:30:00,0.0,,United Kingdom,Year 2010-2011,True,572468,-0.0,2011-10-01,2011,Damaged Stock
+572477,20665,adjustment,-15,2011-10-24 13:39:00,0.0,,United Kingdom,Year 2010-2011,True,572477,-0.0,2011-10-01,2011,Other
+572480,22049,damaged,-100,2011-10-24 13:44:00,0.0,,United Kingdom,Year 2010-2011,True,572480,-0.0,2011-10-01,2011,Damaged Stock
+572516,22336,damaged,-71,2011-10-24 14:45:00,0.0,,United Kingdom,Year 2010-2011,True,572516,-0.0,2011-10-01,2011,Damaged Stock
+572527,20984,damaged,-46,2011-10-24 15:35:00,0.0,,United Kingdom,Year 2010-2011,True,572527,-0.0,2011-10-01,2011,Damaged Stock
+572557,22427,damages,-29,2011-10-24 17:44:00,0.0,,United Kingdom,Year 2010-2011,True,572557,-0.0,2011-10-01,2011,Damaged Stock
+572615,23595,re-adjustment,-5,2011-10-25 11:39:00,0.0,,United Kingdom,Year 2010-2011,True,572615,-0.0,2011-10-01,2011,Other
+572684,23029,damages,-20,2011-10-25 14:00:00,0.0,,United Kingdom,Year 2010-2011,True,572684,-0.0,2011-10-01,2011,Damaged Stock
+572685,23032,damages,-60,2011-10-25 14:01:00,0.0,,United Kingdom,Year 2010-2011,True,572685,-0.0,2011-10-01,2011,Damaged Stock
+572687,20840,damages,-30,2011-10-25 14:05:00,0.0,,United Kingdom,Year 2010-2011,True,572687,-0.0,2011-10-01,2011,Damaged Stock
+572689,84969,check,-50,2011-10-25 14:13:00,0.0,,United Kingdom,Year 2010-2011,True,572689,-0.0,2011-10-01,2011,Uncategorised — needs review
+572690,21539,damages?,-111,2011-10-25 14:14:00,0.0,,United Kingdom,Year 2010-2011,True,572690,-0.0,2011-10-01,2011,Other
+572691,22426,check,-15,2011-10-25 14:15:00,0.0,,United Kingdom,Year 2010-2011,True,572691,-0.0,2011-10-01,2011,Uncategorised — needs review
+572692,21071,check,-82,2011-10-25 14:16:00,0.0,,United Kingdom,Year 2010-2011,True,572692,-0.0,2011-10-01,2011,Uncategorised — needs review
+572693,35810A,check,-78,2011-10-25 14:20:00,0.0,,United Kingdom,Year 2010-2011,True,572693,-0.0,2011-10-01,2011,Uncategorised — needs review
+572748,21824,check,-103,2011-10-25 16:50:00,0.0,,United Kingdom,Year 2010-2011,True,572748,-0.0,2011-10-01,2011,Uncategorised — needs review
+572919,72802C,check,-17,2011-10-26 16:49:00,0.0,,United Kingdom,Year 2010-2011,True,572919,-0.0,2011-10-01,2011,Uncategorised — needs review
+572996,23462,damages,-34,2011-10-27 11:22:00,0.0,,United Kingdom,Year 2010-2011,True,572996,-0.0,2011-10-01,2011,Damaged Stock
+573118,85032D,damaged,-1,2011-10-27 16:19:00,0.0,,United Kingdom,Year 2010-2011,True,573118,-0.0,2011-10-01,2011,Damaged Stock
+C573219,21407,brown check cat doorstop,-1,2011-10-28 11:49:00,4.25,14415.0,United Kingdom,Year 2010-2011,True,C573219,-4.25,2011-10-01,2011,Other
+573254,85135C,damages,-49,2011-10-28 12:18:00,0.0,,United Kingdom,Year 2010-2011,True,573254,-0.0,2011-10-01,2011,Damaged Stock
+573258,85136C,damages,-36,2011-10-28 12:19:00,0.0,,United Kingdom,Year 2010-2011,True,573258,-0.0,2011-10-01,2011,Damaged Stock
+573259,85136A,damages,-77,2011-10-28 12:20:00,0.0,,United Kingdom,Year 2010-2011,True,573259,-0.0,2011-10-01,2011,Damaged Stock
+573463,17012B,check,-70,2011-10-31 10:56:00,0.0,,United Kingdom,Year 2010-2011,True,573463,-0.0,2011-10-01,2011,Uncategorised — needs review
+573482,21181,check,-54,2011-10-31 11:20:00,0.0,,United Kingdom,Year 2010-2011,True,573482,-0.0,2011-10-01,2011,Uncategorised — needs review
+573487,23400,check,-19,2011-10-31 11:46:00,0.0,,United Kingdom,Year 2010-2011,True,573487,-0.0,2011-10-01,2011,Uncategorised — needs review
+573489,85035B,check,-36,2011-10-31 11:48:00,0.0,,United Kingdom,Year 2010-2011,True,573489,-0.0,2011-10-01,2011,Uncategorised — needs review
+573490,85035A,check,-59,2011-10-31 11:55:00,0.0,,United Kingdom,Year 2010-2011,True,573490,-0.0,2011-10-01,2011,Uncategorised — needs review
+573491,21618,check,-54,2011-10-31 11:56:00,0.0,,United Kingdom,Year 2010-2011,True,573491,-0.0,2011-10-01,2011,Uncategorised — needs review
+573493,21619,check,-94,2011-10-31 11:57:00,0.0,,United Kingdom,Year 2010-2011,True,573493,-0.0,2011-10-01,2011,Uncategorised — needs review
+573494,47503H,check,-24,2011-10-31 11:57:00,0.0,,United Kingdom,Year 2010-2011,True,573494,-0.0,2011-10-01,2011,Uncategorised — needs review
+573497,21642,check,-138,2011-10-31 12:00:00,0.0,,United Kingdom,Year 2010-2011,True,573497,-0.0,2011-10-01,2011,Uncategorised — needs review
+573498,21636,check,-22,2011-10-31 12:00:00,0.0,,United Kingdom,Year 2010-2011,True,573498,-0.0,2011-10-01,2011,Uncategorised — needs review
+573499,21192,check,-164,2011-10-31 12:01:00,0.0,,United Kingdom,Year 2010-2011,True,573499,-0.0,2011-10-01,2011,Uncategorised — needs review
+573503,22595,check,-80,2011-10-31 12:03:00,0.0,,United Kingdom,Year 2010-2011,True,573503,-0.0,2011-10-01,2011,Uncategorised — needs review
+573505,85208,check,-22,2011-10-31 12:09:00,0.0,,United Kingdom,Year 2010-2011,True,573505,-0.0,2011-10-01,2011,Uncategorised — needs review
+573547,84818,damages,-70,2011-10-31 13:21:00,0.0,,United Kingdom,Year 2010-2011,True,573547,-0.0,2011-10-01,2011,Damaged Stock
+573670,22176,check,-28,2011-10-31 17:02:00,0.0,,United Kingdom,Year 2010-2011,True,573670,-0.0,2011-10-01,2011,Uncategorised — needs review
+573672,22522,check,-126,2011-10-31 17:04:00,0.0,,United Kingdom,Year 2010-2011,True,573672,-0.0,2011-10-01,2011,Uncategorised — needs review
+573726,72817,check,-67,2011-10-31 17:18:00,0.0,,United Kingdom,Year 2010-2011,True,573726,-0.0,2011-10-01,2011,Uncategorised — needs review
+573734,72818,check,-26,2011-10-31 17:19:00,0.0,,United Kingdom,Year 2010-2011,True,573734,-0.0,2011-10-01,2011,Uncategorised — needs review
+573815,20902,check,-3,2011-11-01 11:31:00,0.0,,United Kingdom,Year 2010-2011,True,573815,-0.0,2011-11-01,2011,Uncategorised — needs review
+573816,20898,check,-10,2011-11-01 11:32:00,0.0,,United Kingdom,Year 2010-2011,True,573816,-0.0,2011-11-01,2011,Uncategorised — needs review
+573919,21352,check,-23,2011-11-01 17:39:00,0.0,,United Kingdom,Year 2010-2011,True,573919,-0.0,2011-11-01,2011,Uncategorised — needs review
+574094,22147,check,-80,2011-11-03 09:46:00,0.0,,United Kingdom,Year 2010-2011,True,574094,-0.0,2011-11-01,2011,Uncategorised — needs review
+574123,22652,check,-111,2011-11-03 10:55:00,0.0,,United Kingdom,Year 2010-2011,True,574123,-0.0,2011-11-01,2011,Uncategorised — needs review
+574171,21818,check,-130,2011-11-03 11:45:00,0.0,,United Kingdom,Year 2010-2011,True,574171,-0.0,2011-11-01,2011,Uncategorised — needs review
+574173,35923,check,-42,2011-11-03 11:46:00,0.0,,United Kingdom,Year 2010-2011,True,574173,-0.0,2011-11-01,2011,Uncategorised — needs review
+574176,85054,check,-39,2011-11-03 11:48:00,0.0,,United Kingdom,Year 2010-2011,True,574176,-0.0,2011-11-01,2011,Uncategorised — needs review
+574198,21159,damaged,-40,2011-11-03 12:00:00,0.0,,United Kingdom,Year 2010-2011,True,574198,-0.0,2011-11-01,2011,Damaged Stock
+574577,21519,check,-80,2011-11-04 17:09:00,0.0,,United Kingdom,Year 2010-2011,True,574577,-0.0,2011-11-01,2011,Uncategorised — needs review
+574578,40001,check,-240,2011-11-04 17:09:00,0.0,,United Kingdom,Year 2010-2011,True,574578,-0.0,2011-11-01,2011,Uncategorised — needs review
+574579,72802B,check,-203,2011-11-04 17:14:00,0.0,,United Kingdom,Year 2010-2011,True,574579,-0.0,2011-11-01,2011,Uncategorised — needs review
+574580,20751,check,-35,2011-11-04 17:44:00,0.0,,United Kingdom,Year 2010-2011,True,574580,-0.0,2011-11-01,2011,Uncategorised — needs review
+574581,23187,check,-62,2011-11-04 17:45:00,0.0,,United Kingdom,Year 2010-2011,True,574581,-0.0,2011-11-01,2011,Uncategorised — needs review
+574582,84279P,check,-104,2011-11-04 17:46:00,0.0,,United Kingdom,Year 2010-2011,True,574582,-0.0,2011-11-01,2011,Uncategorised — needs review
+574583,22892,check,-62,2011-11-04 17:46:00,0.0,,United Kingdom,Year 2010-2011,True,574583,-0.0,2011-11-01,2011,Uncategorised — needs review
+574757,72802C,damages,-54,2011-11-07 10:08:00,0.0,,United Kingdom,Year 2010-2011,True,574757,-0.0,2011-11-01,2011,Damaged Stock
+574816,85036C,damages wax,-1560,2011-11-07 10:37:00,0.0,,United Kingdom,Year 2010-2011,True,574816,-0.0,2011-11-01,2011,Damaged Stock
+574822,85036B,damages wax,-1284,2011-11-07 10:38:00,0.0,,United Kingdom,Year 2010-2011,True,574822,-0.0,2011-11-01,2011,Damaged Stock
+574906,85034A,damaged,-81,2011-11-07 15:30:00,0.0,,United Kingdom,Year 2010-2011,True,574906,-0.0,2011-11-01,2011,Damaged Stock
+575048,84665,water damaged,-15,2011-11-08 12:12:00,0.0,,United Kingdom,Year 2010-2011,True,575048,-0.0,2011-11-01,2011,Other
+575287,84508A,check,-39,2011-11-09 12:15:00,0.0,,United Kingdom,Year 2010-2011,True,575287,-0.0,2011-11-01,2011,Uncategorised — needs review
+575613,23118,check,-6,2011-11-10 12:47:00,0.0,,United Kingdom,Year 2010-2011,True,575613,-0.0,2011-11-01,2011,Uncategorised — needs review
+575614,22121,check,-10,2011-11-10 12:48:00,0.0,,United Kingdom,Year 2010-2011,True,575614,-0.0,2011-11-01,2011,Uncategorised — needs review
+575617,21014,check,-90,2011-11-10 12:53:00,0.0,,United Kingdom,Year 2010-2011,True,575617,-0.0,2011-11-01,2011,Uncategorised — needs review
+575625,35972,check,-3,2011-11-10 13:20:00,0.0,,United Kingdom,Year 2010-2011,True,575625,-0.0,2011-11-01,2011,Uncategorised — needs review
+575704,21843,smashed,-63,2011-11-10 17:00:00,0.0,,United Kingdom,Year 2010-2011,True,575704,-0.0,2011-11-01,2011,Other
+575714,85125,check,-64,2011-11-10 17:55:00,0.0,,United Kingdom,Year 2010-2011,True,575714,-0.0,2011-11-01,2011,Uncategorised — needs review
+575715,72802B,check,-36,2011-11-10 17:58:00,0.0,,United Kingdom,Year 2010-2011,True,575715,-0.0,2011-11-01,2011,Uncategorised — needs review
+575716,72802C,check,-21,2011-11-10 18:00:00,0.0,,United Kingdom,Year 2010-2011,True,575716,-0.0,2011-11-01,2011,Uncategorised — needs review
+575717,85175,check,-42,2011-11-10 18:02:00,0.0,,United Kingdom,Year 2010-2011,True,575717,-0.0,2011-11-01,2011,Uncategorised — needs review
+575720,21817,check,-8,2011-11-10 18:09:00,0.0,,United Kingdom,Year 2010-2011,True,575720,-0.0,2011-11-01,2011,Uncategorised — needs review
+575907,22268,check,-10,2011-11-11 15:52:00,0.0,,United Kingdom,Year 2010-2011,True,575907,-0.0,2011-11-01,2011,Uncategorised — needs review
+575909,20711,check,-220,2011-11-11 16:02:00,0.0,,United Kingdom,Year 2010-2011,True,575909,-0.0,2011-11-01,2011,Uncategorised — needs review
+575912,22943,check,-7,2011-11-11 16:20:00,0.0,,United Kingdom,Year 2010-2011,True,575912,-0.0,2011-11-01,2011,Uncategorised — needs review
+576250,71279,damages,-74,2011-11-14 13:50:00,0.0,,United Kingdom,Year 2010-2011,True,576250,-0.0,2011-11-01,2011,Damaged Stock
+576366,23072,damages,-50,2011-11-14 18:30:00,0.0,,United Kingdom,Year 2010-2011,True,576366,-0.0,2011-11-01,2011,Damaged Stock
+576367,23071,damages,-65,2011-11-14 18:31:00,0.0,,United Kingdom,Year 2010-2011,True,576367,-0.0,2011-11-01,2011,Damaged Stock
+576368,21135,wet rusty,-864,2011-11-14 18:33:00,0.0,,United Kingdom,Year 2010-2011,True,576368,-0.0,2011-11-01,2011,Other
+576369,21135,wet rusty,-288,2011-11-14 18:35:00,0.0,,United Kingdom,Year 2010-2011,True,576369,-0.0,2011-11-01,2011,Other
+576407,47590B,check,-57,2011-11-15 11:18:00,0.0,,United Kingdom,Year 2010-2011,True,576407,-0.0,2011-11-01,2011,Uncategorised — needs review
+576410,71038,check,-16,2011-11-15 11:20:00,0.0,,United Kingdom,Year 2010-2011,True,576410,-0.0,2011-11-01,2011,Uncategorised — needs review
+576411,85111,check,-117,2011-11-15 11:20:00,0.0,,United Kingdom,Year 2010-2011,True,576411,-0.0,2011-11-01,2011,Uncategorised — needs review
+576413,17012C,check,-22,2011-11-15 11:21:00,0.0,,United Kingdom,Year 2010-2011,True,576413,-0.0,2011-11-01,2011,Uncategorised — needs review
+576419,85036B,check,-23,2011-11-15 11:23:00,0.0,,United Kingdom,Year 2010-2011,True,576419,-0.0,2011-11-01,2011,Uncategorised — needs review
+576424,85036C,check,-4,2011-11-15 11:24:00,0.0,,United Kingdom,Year 2010-2011,True,576424,-0.0,2011-11-01,2011,Uncategorised — needs review
+576436,22943,check,-26,2011-11-15 11:27:00,0.0,,United Kingdom,Year 2010-2011,True,576436,-0.0,2011-11-01,2011,Uncategorised — needs review
+576674,21823,damaged,-6,2011-11-16 12:00:00,0.0,,United Kingdom,Year 2010-2011,True,576674,-0.0,2011-11-01,2011,Damaged Stock
+576762,21744,check,-21,2011-11-16 13:08:00,0.0,,United Kingdom,Year 2010-2011,True,576762,-0.0,2011-11-01,2011,Uncategorised — needs review
+576763,23035,check,-64,2011-11-16 13:09:00,0.0,,United Kingdom,Year 2010-2011,True,576763,-0.0,2011-11-01,2011,Uncategorised — needs review
+576764,16008,check,-1510,2011-11-16 13:10:00,0.0,,United Kingdom,Year 2010-2011,True,576764,-0.0,2011-11-01,2011,Uncategorised — needs review
+576765,22219,???lost,-550,2011-11-16 13:11:00,0.0,,United Kingdom,Year 2010-2011,True,576765,-0.0,2011-11-01,2011,Other
+576767,22339,check,-60,2011-11-16 13:12:00,0.0,,United Kingdom,Year 2010-2011,True,576767,-0.0,2011-11-01,2011,Uncategorised — needs review
+576773,22181,check,-92,2011-11-16 13:21:00,0.0,,United Kingdom,Year 2010-2011,True,576773,-0.0,2011-11-01,2011,Uncategorised — needs review
+576776,21811,check,-240,2011-11-16 13:22:00,0.0,,United Kingdom,Year 2010-2011,True,576776,-0.0,2011-11-01,2011,Uncategorised — needs review
+576839,35818B,adjustment,-22,2011-11-16 15:21:00,0.0,,United Kingdom,Year 2010-2011,True,576839,-0.0,2011-11-01,2011,Other
+576843,10133,damaged,-82,2011-11-16 15:32:00,0.0,,United Kingdom,Year 2010-2011,True,576843,-0.0,2011-11-01,2011,Damaged Stock
+577111,22587,check,-41,2011-11-17 17:55:00,0.0,,United Kingdom,Year 2010-2011,True,577111,-0.0,2011-11-01,2011,Uncategorised — needs review
+577112,22586,check,-30,2011-11-17 17:55:00,0.0,,United Kingdom,Year 2010-2011,True,577112,-0.0,2011-11-01,2011,Uncategorised — needs review
+577113,22271,check,-43,2011-11-17 17:58:00,0.0,,United Kingdom,Year 2010-2011,True,577113,-0.0,2011-11-01,2011,Uncategorised — needs review
+577114,21786,check,-209,2011-11-17 17:59:00,0.0,,United Kingdom,Year 2010-2011,True,577114,-0.0,2011-11-01,2011,Uncategorised — needs review
+577115,85035C,check,-24,2011-11-17 18:02:00,0.0,,United Kingdom,Year 2010-2011,True,577115,-0.0,2011-11-01,2011,Uncategorised — needs review
+577116,21165,check,-28,2011-11-17 18:04:00,0.0,,United Kingdom,Year 2010-2011,True,577116,-0.0,2011-11-01,2011,Uncategorised — needs review
+577118,22286,check,-47,2011-11-17 18:05:00,0.0,,United Kingdom,Year 2010-2011,True,577118,-0.0,2011-11-01,2011,Uncategorised — needs review
+577119,22778,check,-10,2011-11-17 18:08:00,0.0,,United Kingdom,Year 2010-2011,True,577119,-0.0,2011-11-01,2011,Uncategorised — needs review
+577120,20752,check,-10,2011-11-17 18:09:00,0.0,,United Kingdom,Year 2010-2011,True,577120,-0.0,2011-11-01,2011,Uncategorised — needs review
+577123,23288,check,-63,2011-11-17 18:34:00,0.0,,United Kingdom,Year 2010-2011,True,577123,-0.0,2011-11-01,2011,Uncategorised — needs review
+577124,22759,check,-327,2011-11-17 18:41:00,0.0,,United Kingdom,Year 2010-2011,True,577124,-0.0,2011-11-01,2011,Uncategorised — needs review
+577304,20956,check,-152,2011-11-18 13:04:00,0.0,,United Kingdom,Year 2010-2011,True,577304,-0.0,2011-11-01,2011,Uncategorised — needs review
+577305,22946,check,-21,2011-11-18 13:06:00,0.0,,United Kingdom,Year 2010-2011,True,577305,-0.0,2011-11-01,2011,Uncategorised — needs review
+577307,16169E,check,-313,2011-11-18 13:06:00,0.0,,United Kingdom,Year 2010-2011,True,577307,-0.0,2011-11-01,2011,Uncategorised — needs review
+577787,23055,rusty thrown away,-398,2011-11-21 16:28:00,0.0,,United Kingdom,Year 2010-2011,True,577787,-0.0,2011-11-01,2011,Other
+577836,21888,check,-57,2011-11-22 10:26:00,0.0,,United Kingdom,Year 2010-2011,True,577836,-0.0,2011-11-01,2011,Uncategorised — needs review
+577999,21018,damaged,-63,2011-11-22 12:29:00,0.0,,United Kingdom,Year 2010-2011,True,577999,-0.0,2011-11-01,2011,Damaged Stock
+578095,23397,damaged,-9,2011-11-22 17:25:00,0.0,,United Kingdom,Year 2010-2011,True,578095,-0.0,2011-11-01,2011,Damaged Stock
+578327,72807A,wet pallet,-504,2011-11-23 17:55:00,0.0,,United Kingdom,Year 2010-2011,True,578327,-0.0,2011-11-01,2011,Other
+578328,72807B,wet pallet,-696,2011-11-23 17:55:00,0.0,,United Kingdom,Year 2010-2011,True,578328,-0.0,2011-11-01,2011,Other
+578329,72807C,wet pallet,-408,2011-11-23 17:56:00,0.0,,United Kingdom,Year 2010-2011,True,578329,-0.0,2011-11-01,2011,Other
+578473,72807B,damages,-101,2011-11-24 12:43:00,0.0,,United Kingdom,Year 2010-2011,True,578473,-0.0,2011-11-01,2011,Damaged Stock
+578474,72807A,damages,-56,2011-11-24 12:44:00,0.0,,United Kingdom,Year 2010-2011,True,578474,-0.0,2011-11-01,2011,Damaged Stock
+578475,72807C,damages,-149,2011-11-24 12:44:00,0.0,,United Kingdom,Year 2010-2011,True,578475,-0.0,2011-11-01,2011,Damaged Stock
+578524,22810,check,-25,2011-11-24 14:20:00,0.0,,United Kingdom,Year 2010-2011,True,578524,-0.0,2011-11-01,2011,Uncategorised — needs review
+578525,22152,check,-179,2011-11-24 14:21:00,0.0,,United Kingdom,Year 2010-2011,True,578525,-0.0,2011-11-01,2011,Uncategorised — needs review
+578527,21819,check,-14,2011-11-24 14:24:00,0.0,,United Kingdom,Year 2010-2011,True,578527,-0.0,2011-11-01,2011,Uncategorised — needs review
+578528,22601,check,-20,2011-11-24 14:24:00,0.0,,United Kingdom,Year 2010-2011,True,578528,-0.0,2011-11-01,2011,Uncategorised — needs review
+578733,21643,damaged,-9,2011-11-25 11:32:00,0.0,,United Kingdom,Year 2010-2011,True,578733,-0.0,2011-11-01,2011,Damaged Stock
+578837,35833P,check,-24,2011-11-25 15:51:00,0.0,,United Kingdom,Year 2010-2011,True,578837,-0.0,2011-11-01,2011,Uncategorised — needs review
+578838,21591,check,-267,2011-11-25 15:52:00,0.0,,United Kingdom,Year 2010-2011,True,578838,-0.0,2011-11-01,2011,Uncategorised — needs review
+578839,22959,check,-175,2011-11-25 15:52:00,0.0,,United Kingdom,Year 2010-2011,True,578839,-0.0,2011-11-01,2011,Uncategorised — needs review
+578840,22142,check,-70,2011-11-25 15:54:00,0.0,,United Kingdom,Year 2010-2011,True,578840,-0.0,2011-11-01,2011,Uncategorised — needs review
+579429,20711,lost in space,-98,2011-11-29 13:04:00,0.0,,United Kingdom,Year 2010-2011,True,579429,-0.0,2011-11-01,2011,Other
+579681,21615,check,-26,2011-11-30 13:33:00,0.0,,United Kingdom,Year 2010-2011,True,579681,-0.0,2011-11-01,2011,Uncategorised — needs review
+579682,85172,check,-145,2011-11-30 13:33:00,0.0,,United Kingdom,Year 2010-2011,True,579682,-0.0,2011-11-01,2011,Uncategorised — needs review
+579683,21868,check,-28,2011-11-30 13:35:00,0.0,,United Kingdom,Year 2010-2011,True,579683,-0.0,2011-11-01,2011,Uncategorised — needs review
+579731,35648,check,-46,2011-11-30 14:23:00,0.0,,United Kingdom,Year 2010-2011,True,579731,-0.0,2011-11-01,2011,Uncategorised — needs review
+579733,84581,check,-41,2011-11-30 14:24:00,0.0,,United Kingdom,Year 2010-2011,True,579733,-0.0,2011-11-01,2011,Uncategorised — needs review
+579732,35648,check,-10,2011-11-30 14:24:00,0.0,,United Kingdom,Year 2010-2011,True,579732,-0.0,2011-11-01,2011,Uncategorised — needs review
+579735,21793,check,-40,2011-11-30 14:25:00,0.0,,United Kingdom,Year 2010-2011,True,579735,-0.0,2011-11-01,2011,Uncategorised — needs review
+579734,84859C,wet?,-153,2011-11-30 14:25:00,0.0,,United Kingdom,Year 2010-2011,True,579734,-0.0,2011-11-01,2011,Other
+579742,85204,lost??,-1131,2011-11-30 14:34:00,0.0,,United Kingdom,Year 2010-2011,True,579742,-0.0,2011-11-01,2011,Other
+579743,21810,check,-135,2011-11-30 14:36:00,0.0,,United Kingdom,Year 2010-2011,True,579743,-0.0,2011-11-01,2011,Uncategorised — needs review
+579745,22043,check,-40,2011-11-30 14:39:00,0.0,,United Kingdom,Year 2010-2011,True,579745,-0.0,2011-11-01,2011,Uncategorised — needs review
+579755,84912B,damaged,-14,2011-11-30 14:54:00,0.0,,United Kingdom,Year 2010-2011,True,579755,-0.0,2011-11-01,2011,Damaged Stock
+580218,22577,check,-300,2011-12-02 12:12:00,0.0,,United Kingdom,Year 2010-2011,True,580218,-0.0,2011-12-01,2011,Uncategorised — needs review
+580377,84609,damages,-29,2011-12-02 17:52:00,0.0,,United Kingdom,Year 2010-2011,True,580377,-0.0,2011-12-01,2011,Damaged Stock
+580378,22792,damages,-73,2011-12-02 17:56:00,0.0,,United Kingdom,Year 2010-2011,True,580378,-0.0,2011-12-01,2011,Damaged Stock
+580380,21620,check,-20,2011-12-02 17:58:00,0.0,,United Kingdom,Year 2010-2011,True,580380,-0.0,2011-12-01,2011,Uncategorised — needs review
+580382,16045,check,-900,2011-12-02 17:59:00,0.0,,United Kingdom,Year 2010-2011,True,580382,-0.0,2011-12-01,2011,Uncategorised — needs review
+580383,20652,check,-37,2011-12-02 17:59:00,0.0,,United Kingdom,Year 2010-2011,True,580383,-0.0,2011-12-01,2011,Uncategorised — needs review
+580546,23406,check,-21,2011-12-05 09:27:00,0.0,,United Kingdom,Year 2010-2011,True,580546,-0.0,2011-12-01,2011,Uncategorised — needs review
+580990,21109,wet,-48,2011-12-06 16:54:00,0.0,,United Kingdom,Year 2010-2011,True,580990,-0.0,2011-12-01,2011,Other
+580991,22481,wet boxes,-288,2011-12-06 16:55:00,0.0,,United Kingdom,Year 2010-2011,True,580991,-0.0,2011-12-01,2011,Other
+581190,84801A,check,-102,2011-12-07 16:55:00,0.0,,United Kingdom,Year 2010-2011,True,581190,-0.0,2011-12-01,2011,Uncategorised — needs review
+581198,22025,check,-30,2011-12-07 18:26:00,0.0,,United Kingdom,Year 2010-2011,True,581198,-0.0,2011-12-01,2011,Uncategorised — needs review
+581200,84508C,check,-21,2011-12-07 18:27:00,0.0,,United Kingdom,Year 2010-2011,True,581200,-0.0,2011-12-01,2011,Uncategorised — needs review
+581201,22217,damages?,-155,2011-12-07 18:30:00,0.0,,United Kingdom,Year 2010-2011,True,581201,-0.0,2011-12-01,2011,Other
+581204,85104,????damages????,-355,2011-12-07 18:32:00,0.0,,United Kingdom,Year 2010-2011,True,581204,-0.0,2011-12-01,2011,Other
+581205,20893,damages,-55,2011-12-07 18:32:00,0.0,,United Kingdom,Year 2010-2011,True,581205,-0.0,2011-12-01,2011,Damaged Stock
+581208,72801C,check,-10,2011-12-07 18:35:00,0.0,,United Kingdom,Year 2010-2011,True,581208,-0.0,2011-12-01,2011,Uncategorised — needs review
+581210,23395,check,-26,2011-12-07 18:36:00,0.0,,United Kingdom,Year 2010-2011,True,581210,-0.0,2011-12-01,2011,Uncategorised — needs review
+581212,22578,lost,-1050,2011-12-07 18:38:00,0.0,,United Kingdom,Year 2010-2011,True,581212,-0.0,2011-12-01,2011,Uncategorised — needs review
+581213,22576,check,-30,2011-12-07 18:38:00,0.0,,United Kingdom,Year 2010-2011,True,581213,-0.0,2011-12-01,2011,Uncategorised — needs review
+581422,23169,smashed,-235,2011-12-08 15:24:00,0.0,,United Kingdom,Year 2010-2011,True,581422,-0.0,2011-12-01,2011,Other
