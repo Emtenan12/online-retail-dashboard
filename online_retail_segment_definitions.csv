@@ -1,0 +1,11 @@
+Segment,RFM Rule,Business Definition
+Champions,"R=4, F=4, M=4","Active ≤26 days, >7 orders, top spend"
+Loyal Customers,"R≥3, F≥3","Active ≤96 days, >3 orders"
+At Risk,"R≤2, F≥3, M≥3",Inactive >96 days but historically frequent & high-spend
+Cannot Lose Them,"R≤2, F=4",Inactive >96 days but were highest-frequency buyers
+About to Sleep,"R≤2, F≤2","Inactive >96 days, low frequency — churn risk"
+Promising,"R≥3, F=1","Recently active ≤96 days, only 1 order so far"
+Recent Customers,"R=4, F=1","Very recent ≤26 days, first-time buyers"
+Potential Loyalists,M≥3 (other),Mid-range recency/frequency but solid spend
+Need Attention,Remaining,Low across all three dimensions
+Lost,"R=1, F=1","Inactive >379 days, single purchase — likely churned"
